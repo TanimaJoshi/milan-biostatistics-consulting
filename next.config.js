@@ -1,11 +1,1 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  images: {
-    unoptimized: true,
-  },
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-}
-
-module.exports = nextConfig 
+/** @type {import('next').NextConfig} */ const nextConfig = { output: 'export', basePath: '/milan-biostatistics-consulting', images: { unoptimized: true }, eslint: { ignoreDuringBuilds: true }, assetPrefix: '/milan-biostatistics-consulting/' }; module.exports = nextConfig
