@@ -1,6 +1,42 @@
-# Biostatistics Consulting Website
+# Milan Biostatistics Consulting
 
-Professional website for Dr. Milan Mangeshkar, offering expert consulting services in clinical development, regulatory support, and biometrics operations.
+A professional website for Dr. Milan Mangeshkar's biostatistics consulting services.
+
+## Features
+
+- Modern, responsive design
+- Detailed services overview
+- Professional experience showcase
+- Contact form for inquiries
+- Client testimonials
+- Comprehensive about section
+
+## Tech Stack
+
+- Next.js 14
+- React
+- Tailwind CSS
+- TypeScript
+
+## Getting Started
+
+```bash
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+## Version History
+
+- v1.0.0 - Initial Release
+  - Complete website implementation
+  - Responsive design
+  - All core features implemented
 
 ## Services
 - Clinical Development Strategy
@@ -13,26 +49,6 @@ Professional website for Dr. Milan Mangeshkar, offering expert consulting servic
 - Location: San Francisco, CA
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
 
